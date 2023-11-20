@@ -7,7 +7,7 @@ const loadList = () =>{
 }
 
 export default function ToDoList() {
-    const [list, setList] = useState(loadList());
+    const [list, setList] = useState(loadList()? loadList() : []);
 
     useEffect(()=>{
         saveList()
