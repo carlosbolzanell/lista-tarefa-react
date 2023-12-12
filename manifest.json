@@ -7,7 +7,7 @@
     "start_url": "www.lista-tarefa-react-30.vercel.app",
     "icons": [
         {
-          "src": "imagens/IconLogo512.png",
+          "src": "assets/img1.png",
           "sizes": "512x512",
           "type": "image/png"
         }
