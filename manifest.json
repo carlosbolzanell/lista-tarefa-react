@@ -7,7 +7,7 @@
     "start_url": "/",
     "icons": [
         {
-          "src": "/public/assets/bird.png",
+          "src": "/bird.png",
           "sizes": "512x512",
           "type": "image/png"
         }
