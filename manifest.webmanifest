@@ -6,10 +6,10 @@
     "display": "standalone",
     "start_url": "/",
     "icons": [
-        {
-          "src": "/bird.png",
-          "sizes": "512x512",
-          "type": "image/png"
-        }
-    ]
+      {
+        "src": "assets/IconLogo512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+  ]
 }
