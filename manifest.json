@@ -1,0 +1,15 @@
+{
+    "name": "Lista de Tarefas React",
+    "short_name": "Lista & delivery",
+    "theme_color": "cyan",
+    "background_color": "white",
+    "display": "minimal-ui",
+    "start_url": "www.lista-tarefa-react-30.vercel.app",
+    "icons": [
+        {
+          "src": "imagens/IconLogo512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+    ]
+}
