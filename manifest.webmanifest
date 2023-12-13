@@ -1,5 +1,5 @@
 {
-  
+
     "name": "Lista de Tarefas React",
     "short_name": "Lista",
     "theme_color": "#00ffff",
@@ -10,6 +10,11 @@
       {
         "src": "assets/IconLogo512.png",
         "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "assets/IconLogo192.png",
+        "sizes": "192x192",
         "type": "image/png"
       }
   ]
