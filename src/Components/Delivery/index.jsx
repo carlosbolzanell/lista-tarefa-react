@@ -2,7 +2,7 @@
 import "./Delivery.css"
 import { useState } from "react"
 
-const image = ['./assets/img1.png', './assets/img2.png', './assets/img3.png'];
+const image = ['./assets/IconLogo512.png', './assets/img2.png', './assets/img3.png'];
 
 export default function Delivey(){
     const [text, setText] = useState('Preparando')
